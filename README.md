@@ -1,10 +1,18 @@
-### Hi there 👋
+## hrlee113
 
+### :mortar_board: Education
+* `2020-` M.S student at Finance and Insurance Artficial Intellengence lab., Ewha Womans University
+* `2016-2020` Economics & Statistics, Ewha Womans University
+
+### :seedling: Interests
+* Statistics
+* Data Analysis
+* Machine Learning / Deep Learning
 <!--
-**hrlee113/hrlee113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hyerin0113/hyerin0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
