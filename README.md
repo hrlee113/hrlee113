@@ -1,7 +1,7 @@
 ## About me
 
 ### :mortar_board: Education
-* `2020-` M.S student at Finance and Insurance Artficial Intellengence lab., Ewha Womans University
+* `2020-` M.S student in Statistics, Ewha Womans University
 * `2016-2020` Economics & Statistics, Ewha Womans University
 
 ### :seedling: Interests
