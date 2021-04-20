@@ -1,4 +1,4 @@
-## hrlee113
+## About me
 
 ### :mortar_board: Education
 * `2020-` M.S student at Finance and Insurance Artficial Intellengence lab., Ewha Womans University
