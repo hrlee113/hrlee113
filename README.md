@@ -6,7 +6,7 @@
 
 ### :seedling: Interests
 * Statistics
-* Data Analysis
+* Data Analytics
 * Machine Learning / Deep Learning  
   
 ### 💎 Portfolio  
