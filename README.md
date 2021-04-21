@@ -10,7 +10,7 @@
 * Machine Learning / Deep Learning  
   
 ### 💎 Portfolio  
-* **[Click Here!](https://github.com/hrlee113/hrlee113/blob/main/Portfolio%20(ver.%20April%2C%202021).pdf)**
+* **[Click Here!](https://github.com/hrlee113/Portfolio/blob/main/Portfolio(ver.%20April%2C%202021).pdf)**
 <!--
 **hyerin0113/hyerin0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
