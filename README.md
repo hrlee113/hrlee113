@@ -1,4 +1,4 @@
-## About me
+## Hi there👋
 
 ### :mortar_board: Education
 * `2020-` M.S student in Statistics, Ewha Womans University
