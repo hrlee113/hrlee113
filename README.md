@@ -10,7 +10,7 @@
 * Machine Learning / Deep Learning  
   
 ### 💎 Portfolio  
-* **TBU...!**
+* **TBU!**
 <!--
 **hyerin0113/hyerin0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
